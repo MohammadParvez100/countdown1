@@ -1,4 +1,4 @@
-const exam= "30 september 2021";
+const exam= "18 october 2021";
 const daysDiv =document.getElementById("days");
 const hoursDiv =document.getElementById("hours");
 const minuteDiv =document.getElementById("minute");
